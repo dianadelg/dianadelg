@@ -1,4 +1,4 @@
-### howdy 🤘 I'm Diana.
+### Howdy 🤘 I'm Diana.
 
 I am an application developer @ IBM in Washington, D.C.
 
